@@ -29,3 +29,7 @@ make
 # Or run on a directory with multiple VM files
 ./VMtranslator path/to/Directory
 
+## Notes
+- This project passed all official Nand2Tetris VM translator tests.
+- Works with any Java 8+ installation.
+- No external dependencies required.
